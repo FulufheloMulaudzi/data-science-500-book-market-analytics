@@ -1,0 +1,4 @@
+Model,Train R2,Test R2,Test RMSE (£),Test MAE (£),CV R2 (mean),CV R2 (std)
+Baseline (predict mean),0.0,-0.0051,14.5305,12.6619,-0.003,0.0031
+Linear Regression: numeric only,0.0031,-0.0179,14.6226,12.7604,-0.0135,0.0046
+Linear Regression: numeric + genre,0.0279,-0.071,14.999,12.9634,-0.0675,0.0108
