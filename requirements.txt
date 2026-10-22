@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+numpy
+pandas
+matplotlib
+scikit-learn
+reportlab
+jupyter
+ipykernel
