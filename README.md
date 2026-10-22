@@ -1,7 +1,8 @@
 # Book Market Analytics – Books to Scrape
 
 **Student Name:** Fulufhelo Mulaudzi  
-**Student Number:** 402601594    
+**Student Number:** 402601594
+**GitHub Repository** 
 **Module:** Data Science 500  
 **Institution:** Richfield Graduate Institution  
 
