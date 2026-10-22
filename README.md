@@ -2,8 +2,10 @@
 
 **Student Name:** Fulufhelo Mulaudzi  
 **Student Number:** 402601594
- **GitHub Repository** https://github.com/FulufheloMulaudzi/data-science-500-book-market-analytics
- **Module:** Data Science 500  
+
+**GitHub Repository:** https://github.com/FulufheloMulaudzi/data-science-500-book-market-analytics
+
+**Module:** Data Science 500  
 **Institution:** Richfield Graduate Institution  
 
 ---
